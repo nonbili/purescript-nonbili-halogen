@@ -1,6 +1,8 @@
 -- | Some utils for Halogen.
 module Nonbili.Halogen
-  ( when
+  ( class_
+  , style
+  , when
   , unless
   , fromMaybe
   , attr
